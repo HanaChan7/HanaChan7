@@ -1,0 +1,36 @@
+themes for music player
+#color
+Pastel 
+Light
+Dark
+Neon
+
+#season
+Winter
+Summer
+Spring
+Autumn
+
+#others
+Halloween
+Alien
+Cute
+Bloody
+Sea
+
+## Roshna
+halloween
+pastel
+summer
+winter
+sea
+dark
+
+#Nayana
+light
+neon
+spring
+autumn
+cute
+bloody
+
